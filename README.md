@@ -25,6 +25,13 @@
 * Default SECURITY policy set up.
 * License Block.
 
+## Steps after cloning the repository
+
+Go to Github project settings and add the following secrets for
+
+* CODECOV:
+* SEMGREP:`SEMGREP_APP_TOKEN`
+
 ## Contributing
 
 Everybody is welcome to contribute to the project. Please check out the [**Contribution Steps**](CONTRIBUTING.md) for instructions about how to proceed.
